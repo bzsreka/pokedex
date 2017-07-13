@@ -1,6 +1,7 @@
 body {
 	background-image: url(background.jpg);
     background-position: center top;
+	background-attachment: fixed;
     background-size: 100% auto;
 	margin:0;
 }
@@ -12,6 +13,9 @@ nav{
 	display:flex;
 	justify-content:flex-start;	
 	height:60px;
+	position:fixed;
+	top:0;
+	width:100%;
 }
 
 nav a{
@@ -30,6 +34,7 @@ button{
 	background-color:#ffff99;
 	cursor:pointer;
 	padding: 0 50px;
+	margin-left:10px;
 	font-size: 35px;
 	color: #1a75ff;
 	font-family:Bangers;

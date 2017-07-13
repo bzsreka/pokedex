@@ -1,9 +1,10 @@
 h1 {
 	text-align:center;
-	color: #0077b3;
+	color: #1a75ff;
 	font-size: 60px;
 	text-shadow: 5px 5px 5px #ffff00;
 	font-family:Bangers;
+	margin-top: 150px;
 }
 p {
 	text-align:justify;

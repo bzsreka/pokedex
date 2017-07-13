@@ -4,6 +4,7 @@ h1 {
 	font-size: 60px;
 	text-shadow: 5px 5px 5px #ffff00;
 	font-family:Bangers;
+	margin-top: 150px;
 }
 
 
@@ -16,4 +17,26 @@ h1 {
 	display:flex;
 	justify-content:center;
 }
+
+ul {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	padding:20px;
+	list-style-type: none;
 	
+}
+
+div {
+	border: 2px solid #1a75ff;
+	border-radius:2px;
+	background-color: #1a75ff;
+	padding: 30px 30px;
+	display:flex;
+	margin:3px;
+}
+
+div:hover{
+	border: 2px solid #ffff00;
+	background-color: #ffff00;
+}
