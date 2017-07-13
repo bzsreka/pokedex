@@ -1,0 +1,42 @@
+body {
+	background-image: url(background.jpg);
+    background-position: center top;
+    background-size: 100% auto;
+	margin:0;
+}
+
+nav{
+	border: 10px solid #ffff99;
+	background-color:#ffff99;
+	box-shadow: 5px 5px 10px #1a75ff;
+	display:flex;
+	justify-content:flex-start;	
+	height:60px;
+}
+
+nav a{
+	height:100%
+}
+
+.logo {
+	height: 60px;
+	width: 163px;
+	padding-right:50px;
+}
+
+button{
+	height: 100%;
+	border:none;
+	background-color:#ffff99;
+	cursor:pointer;
+	padding: 0 50px;
+	font-size: 35px;
+	color: #1a75ff;
+	font-family:Bangers;
+	}
+	
+button:hover{
+	color: #ffff00;
+	background-color:#1a75ff;
+	border-radius: 2px;
+	}

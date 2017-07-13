@@ -1,6 +1,19 @@
-body {
-	background-color:#ffff99;
-	}
-	
+h1 {
+	text-align:center;
+	color: #1a75ff;
+	font-size: 60px;
+	text-shadow: 5px 5px 5px #ffff00;
+	font-family:Bangers;
+}
 
+
+.searchbutton{
+	height: 20px;
+	font-size: 15px;	
+}
+
+.search {
+	display:flex;
+	justify-content:center;
+}
 	
