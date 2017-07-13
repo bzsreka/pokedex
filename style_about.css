@@ -1,0 +1,47 @@
+body {
+	background-image: url(background.jpg);
+    background-position: center top;
+    background-size: 100% auto;
+}
+
+nav{
+	border: 10px solid #ffff99;
+	border-radius: 30px;
+	background-color:#ffff99;
+	box-shadow: 5px 5px 10px #1a75ff;
+	display:flex;
+	justify-content:flex-start;	
+	height:60px;
+}
+
+nav ul {
+	display:flex;
+	justify-content:center;
+	padding: 10px 80px;
+}
+
+.logo {
+	height: 60px;
+	width: 163px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+	display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a button{
+	height: 100%;
+	border:none;
+	background-color:#ffff99;
+	cursor:pointer;
+}
