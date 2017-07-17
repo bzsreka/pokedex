@@ -10,6 +10,8 @@ p {
 	text-align:justify;
 	margin: 50px;
 	border: 5px solid   #b3e6ff;
-	border-radius:10px;
+	border-radius:5px;
 	background-color:  #b3e6ff;
+	font-size: 20px;
+	padding: 10px 10px;
 }

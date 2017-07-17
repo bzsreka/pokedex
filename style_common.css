@@ -45,3 +45,10 @@ button:hover{
 	background-color:#1a75ff;
 	border-radius: 2px;
 	}
+	
+footer {
+	display:flex;
+	justify-content:center;
+	margin-bottom: 30px;
+
+}
